@@ -1,0 +1,15 @@
+Model Assumptions:
+- Field size: 65 x 65
+- Grass regrowth rate: 3.5% chance per cell per generation
+
+Rabbits:
+- Initial population: 50
+- Maximum offspring per generation: 1
+- Starvation level: 3 generations without food
+- Reproduction threshold: 2 units of food
+
+Foxes:
+- Initial population: 35
+- Maximum offspring per generation: 3
+- Starvation level: 12 generations without food
+- Reproduction threshold: 1 unit of food
